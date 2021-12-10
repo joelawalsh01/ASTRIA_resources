@@ -1,0 +1,193 @@
+POPULAR 
+   
+NASASpaceFlight.comFORUMSL2 SIGN UPARTEMISSPACEXCOMMERCIALISSINTERNATIONAL
+OTHER
+SHOP
+ArSat-1: Argentina to communicate its heightened space ambitions
+written by Alejandro G. Belluscio October 6, 2014
+
+An Ariane 5 is set to launch the first satellite of a very ambitious program to develop indigenous technological and development capabilities for Argentina. The October 15 launch of ArSat-1 – riding alongside DirectTV’s DLA-1 – will loft the three ton spacecraft to Geostationary Transfer Orbit, for a destination at 71.8 degrees West, a position assigned to Argentina by the ITU.
+
+ArSat-1:
+
+The spacecraft – sporting 24 Ku-Band transponders and 3.5kW of power – is the first communication satellite built for the government-owned communication company.
+
+The plan was born out of the need to hold on to the two orbital slots assigned to the country – at 71.8 and 81 degrees West – and grew to develop a completely new environmental and radio testing center, the development of a new GSO bus and a 30,000 km fiber optic network to complement the data transfer capabilities.
+
+SEE ALSO
+UPDATES Ariane 5 ArSat-1
+60 Launch Vehicle Manuals (L2)
+Click here to Join L2
+The turning point for Argentina’s space efforts was the cancellation of the Condor Program in 1993.
+
+Since its very beginnings, space research had been done by, or with support of, the armed forces. International pressure to end the medium range ballistic missile program also meant the dissolution or termination of most space related research in the country.
+
+As a consequence, most space related matters were handed to the newly created space agency, CONAE, which was made independent of the Foreign Affairs Ministry, with a very strict mandate to only work on civil applications. At the same time, the ITU was in large scale negotiations to assign orbital slots to each country.
+
+As the space program was in disarray – with no experience in the geostationary communications market – the conundrum was assigned to the newly created National Telecommunications Commission (CNT for Comisión Nacional de Telecomunicaciones), the equivalent of the USA’s FCC, which was later turned into the current National Communications Commission (CNC for Comisión Nacional de Comunicaciones) in 1996.
+
+Since orbital slot rights expire if not used within a certain time frame (usually three years) – and given the economic crisis and general reorganization ongoing in the government by that time – it was decided to outsource the problem.
+
+An international tender was made for the acquisition, launch and operation of a satellite to fill the slot that the country had negotiated, along with the construction of a ground station in the country from which the satellites would be operated.
+
+2014-10-06 02_55_55-NahuelSat-1A-Artist Impression.jpg - Windows Photo ViewerThe winning bid was made by a partnership that included Daimler Benz-Aerospace of Germany, Aerospatiale of France and Alenia Spazio of Italy, which formed a local company, NahuelSat S.A., to carry the business.
+
+Initially they leased Anik C1 (thus renamed as NahuelSat-I1) from May 1993 to March 1997, to keep the orbital rights to the 71.8 West slot. Anik C2 was later leased as NahuelSat-I2. Meanwhile, a new satellite, Nahuel 1A, was ordered from Dornier Satellitensysteme – which was successfully launched on January 31, 1997.
+
+In 1998, the country acquired the rights to the 81 West orbital slot, in exchange for allowing DirecTV to operate in the country. It was also assigned to NahuelSat for exploitation.
+
+Regrettably the company never placed a new satellite there – as it was supposed to – and only leased old satellites to hold on to the orbital rights.
+
+To add insult to injury, the leased satellites didn’t broadcast in all the assigned frequencies, risking a lapse of the assigned rights.
+
+After this event – and given that Nahuel 1A was close to its end of life without a replacement ordered – the shareholders of NahuelSat S.A. accepted a transfer of the company and assets to the government-owned ArSat S.A. in 2007, in exchange of the later taking care of all debts and obligations of the company shareholders.
+
+The Hatching of an Ambitious Plan:
+
+ArSat could have immediately ordered a couple of satellites from the numerous and reliable international manufacturers.
+
+In fact, at first, the then Secretary of Communications, Mr. Guillermo Moreno, made contact with the Chinese government to procure a couple of satellites and launch services. However, even though a cooperation agreement was signed, nothing GEO-related came out of it. Mr. Moreno explained many years later that the USA had lobbied against the idea.
+
+However, after the Condor missile cancellation agreement, the Argentine civil space program had received significant support and oversight from the US government.
+
+2014-10-06 03_01_29-SAC-D - Google SearchIn the case of SAC-D, NASA had a direct presence in the reviews (SSR/SDR, PDR and CDR), not only for the mission, but also per fully indigenous elements like the solar panels. The issue of procuring Chinese satellites might have been a politically sensitive issue.
+
+In the end, and possibly aided by the successful experience of the SAC-D program, it was decided at the highest political level to follow a very different path.
+
+With the all-powerful Planning Ministry, from which ArSat depended, a very daring and ambitious plan was conceived.
+
+Under the umbrella name of Argentina Conectada (Connected Argentina), ArSat would morph from a small satellite operator, to an all encompassing communication company.
+
+As a result, this involved the installation of a fiber optic network to cover the whole territory, install and operate the free-over-the-air digital television broadcast service that would reach over 90 percent of the country’s population, offer 4G cellular services in the whole country, outsource most government datacenters services and operate a fleet of Argentine-built satellites to reach the whole country in multiple bands as well as offering services in the whole continent.
+
+2014-10-06 03_07_33-CONAE - Google SearchThe space segment decision was particularly bold because the CONAE (the national space agency) had been focused on Earth observation and direct support for economic and productive applications.
+
+As such, all space developments had been for LEO observation spacecraft and support infrastructure. Thus, there was no experience in communication satellite manufacturing, and the existing experiences were for the completely different LEO environment.
+
+In fact, GEO is closer to an interplanetary mission than a LEO mission from many points of view, such as thermal, radiation and astrogation.
+
+As part of the plan to develop the local satellite capabilities, it was also decided to build all the necessary testing infrastructure in the country. Some testing of the SAC-D mission, for example, had to be done in Brazil, since the country lacked the infrastructure for even a medium satellite at that time.
+
+Thus CEATSA was born.
+
+Not only has it a full set of vacuum/thermal and anechoic chambers; shakers, etc., but the infrastructure is sized for full size 4.7m diameter satellites, the biggest possible under current available fairings.
+
+2014-10-06 03_08_31-ARSAT-1 - INVAP CAD Render 01.png - Windows Photo ViewerThe space segment development was particularly daring, calling for at least three satellites (Arstat-1, 2 and 3) for two orbital slots (71.8 West and 81 West) to form the SSGAT (from the Spanish version of Geostationary Communications Argentine Satellite System).
+
+Arsat-1 will be a Ku-Band satellite, ArSat-2 will be Ku-Band and C-Band and ArSat-3 is expected to include at least Ka-Band as payload.
+
+The CNT Commissioner has stated that they are going to be chasing after the Ka-Band right for its slots, and that they don’t discard the future claim of X-Band for the Argentine military.
+
+The ArSat-1 spacecraft:
+
+The ArSat-1 is the first of what is planned to be three geosynchronous communication satellites (ArSat-1, 2 and 3) to be fully designed, built and tested in the country.
+
+As such, it was designed and manufactured with a mix of local and foreign supplier base. This mixture is a delicate balance between trying to combine mission risks while maximizing local experience and capabilities development.
+
+The prime contractor is the leading space and nuclear technology company, INVAP SE – wholly owned by the government of the Río Negro Province – which has acted as prime contractor and manufacturer for the whole SAC series of scientific satellites, including the joint SAC-D/Acuarius mission with NASA. The final testing was done at CEATSA, the newly created laboratory testing company.
+
+2014-10-06 02_53_54-ARSAT-1 - Bus.jpg - Photo GalleryThe satellite will debut the ArSat 3K bus. The satellite weights about three tonnes when fueled and ready to launch, has 24 Ku-Band transponders, at 1152Mhz of bandwidth, equivalent to 32 transponders of 36Mhz.
+
+It has a nominal payload power budget of 3.5kW and is expected to have 15 years of service life.
+
+The satellite measures 4.4m x 2.3m x 16.42m with deployed solar panels, has tanks with 1,500 liters of propellant and has a dry weight of around 1,300kg.
+
+While the objective was to build as much of the satellite in the country as possible, the GEO environment, mission and requirements were absolutely new and extremely demanding. Thus, a group of foreign suppliers and consultants were contracted.
+
+2014-10-06 03_09_38-ARSAT-1 - Reading for Shipping01.jpg - PaintThe payload is supplied by Thales Alenia Space of France, with the Spanish subsidiary supplying the TT&C (Telemetry, Tracking, and Command) subsystem, including the S-Band transponder.
+
+Astrium Satellites supplied the 50-kilogram carbon-composite central cylinder – the backbone of the satellite – the Satellite Processing Unit (i.e. the main computer) and some components for the AOCS (Attitude and Orbit Control System), including the 10N S10 thrusters and 400N S400 LAE (Liquid Apogee Engine).
+
+2014-10-06 03_10_56-Arsat-1 Satellite (72°W) - YouTubeThe system uses the same bipropellant on both the thrusters and LAE. The AOCS also has Honeywell International parts, including four HR 12-25RWA reaction wheels, and dual MIMU (Miniature Inertial Measurement Unit) Inertial Reference Units.
+
+The AOCS also include the Star Tracker, FSS (Fine Sun Sensor) and IRES (InfraRed Earth Sensor). All these sensors allow the satellite to accurately and redundantly find its position in space, point its solar panels to the sun and its communication payload to the Earth automatically.
+
+This is a critical characteristic because if it were unpowered, or if the command and control communication couldn’t be established, the satellite might be a complete loss in case of any anomaly.
+
+2014-10-06 03_12_22-ARSAT-1 - Internals.jpg - PaintAstrium also supplies this satellite’s solar panels. However, the forward plan is to start using indigenous panels made by the labs of the CNEA, the national authority on nuclear matters, from ArSat-2 onwards.
+
+While most of the hardware parts were supplied by the international partners, the full design, integration, manufacturing and testing was done by INVAP in the Bariloche factory.
+
+The desire to develop the capabilities went so far that, while the computer module was supplied by Astrium, the whole software was written from scratch by local contractors. Or, in the case of the AOCS system, the main computer, and both ACE (the Attitude Control Electronics) and TCE (Thruster Control Electronics), as well as the whole attitude control system and algorithms were developed at INVAP.
+
+The distinction between the supplier of the off the shelf parts – and the specification, validation and integration of components and software development into a whole system – is very important. As a result, it can be considered a 100 percent INVAP product.
+
+2014-10-06 03_13_16-Arsat-1 Satellite (72°W) - YouTubeIn finding a launch provider, Arianespace was contracted to purchase a ride on an Ariane 5 ECA from Kourou, French Guiana. This decision was based on reduced risk, critical to the retention of the orbital slots. The dual ride uphill with the Intelsat DLA-1 required a significant amount of engineering analysis that is invaluable for a design debut.
+
+Another source of engineering support, ironically, was the insurance contract. While the policy – which included ArSat-2 – was issued by the local National Bank of Argentina insurance subsidiary, it was reinsuranced by International Space Brokers (ISB) of Aon Risk Solutions.
+
+As part of the due diligence, ISB conducted a significant risk assessment and engineering studies. Since the policy was stated as the cheapest ever for a debuting satellite bus, it is assumed that the engineering work of INVAP and its partners is top notch.
+
+2014-10-06 03_14_02-Dlr_logo1.png (325×272)Additionally, for the LEOP (Launch and Early Orbit Phase) phase, ARSAT S.E. contracted the German space agency, DLR, and LSC (a SSC subsidiary).
+
+They had already participated on the manufacturing and operation of the Nahuelsat-1A, that ARSAT inherited from NahuelSat S.A. They also trained the Argentinian personnel on the operation and disposal of the NahuelSat-1A satellite.
+
+Given this would be the first mission for the satellite operator, it was decided to keep them as consultants since there was no experience for the initial maneuvers nor commissioning phases.
+
+Per the procurement arrangements, the main objective of the program was focused on developing the full lifecycle development and operation of geosynchronous satellites completely from within the country.
+
+ACTA, the Science Opportunity of the ARSAT Program:
+
+In 2008, it was decided to utilize space on the spacecraft with scientific and technological experiments – initially only set to be included on future satellites in the family.
+
+2014-10-06 03_00_01-ARSAT-1 - INVAP CAD Render 08.png - Windows Photo ViewerSince the very foundations of the ArSat program was to develop the industrial and technological capabilities for GEO satellites, it was classed as a priceless opportunity to deepen the understanding of geosynchronous environment and to qualify and demonstrate actual material and subsystems performance.
+
+While the volume budget was relatively generous – weight, power and processing budget were limited. Most importantly, the experiments would have to minimize the risk to the primary mission. Thus, magnetic, electric and radiation interactions with the rest of the satellite, as well as integration impact, was to be reduced as much as possible.
+
+After consultation with national and foreign researchers, by 2009 CONICET (the National Council for Scientific and Technical Research) provided grants for three experiments to fly on ARSAT-1 under the ACTA (acronym in Spanish for Argentine Technological Payload Array) project.
+
+The experiments chosen were a space radiation experiment (MARE), an atmospheric fluorescence measure from geostationary orbit (FOG) and a study for degradation in the geostationary orbit environment of indigenous solar cells.
+
+2014-10-06 02_57_11-ARSAT-1 - ACTA-MARE-07-FOV.png - Windows Photo ViewerMARE (Spanish acronym for Argentine Monitor of Space Radiation) is an instrument designed to measure charged particles (electrons, protons and alphas) covering the wide range of integrated fluxes, from 0MeV to 100MeV. This will enable a better understanding of the GEO environment, with the actual counting for space based event like solar flares.
+
+The experiment is composed of three detectors, to cover the whole range of energies. The LEEP (Low Energy Electron and Proton) covers the 40keV to 5MeV, a range mainly composed of low energy electrons. The PT (Particle Telescope) can measure protons with energies higher than 400keV. And the HEP (High Energy Proton), that can measure protons with energies higher than 40MeV.
+
+2014-10-06 02_51_11-ARSAT-1 - ACTA-FOG-01.png - Windows Photo ViewerFOG (Spanish acronym for Fluorescence from Geostationary Orbit) is a 15cm UV telescope, weights 8.5kg, consumes as little as 7W, and measures 24 cm x 28 cm x 29 cm. It includes 4 x multi-anode photomultiplier tube (MAPMT) for UV detection.
+
+Argentina is home of one of the most important UV observatories in the world, the Pierre Auger Observatory. With its 3000 km squared close to Malargüe, in the south of the Mendoza Province, Argentina – the largest cosmic ray observatory.
+
+It combines the two techniques of detection: an array of 1600 surface detector stations on a triangular grid, spaced by 1500 m, that sample the lateral distribution of UHECR cascades, and 24 fluorescence telescopes that observe at night the longitudinal development of these cascades.
+
+However, not all UV can be seen from the ground, and observing the UV events from space, without atmospheric dilution, allows for calibration of the ground data. This instruments gives new tools for a branch of physics in which the country already has leading capabilities.
+
+The third experiment came from the very conception of the ArSat series a national capabilities development, and is mostly a technological demonstrator.
+
+2014-10-06 03_16_23-SAC-D satellite - Google SearchThe main issues of degradation in space solar cells is the effect of radiation, and since the CNEA (acronym for the National Atomic Energy Commission) had all the equipment to study and simulate the radiation environment, it ended up developing the solar panels for the SAC-D mission, and the SAOCOM radar missions.
+
+However, the geostationary environment was unchartered territory for them and this not being development satellites, like the SAC-A/B/C series, it was decided to outsource the solar panels for the first satellite. Yet the opportunity was not lost to use experimental panels that would characterize and validate in-situ the CNEA technologies.
+
+Finally, the three instruments transmit their information to the ACTA on board computer (ATCA-OBC) through RS-422 serial interfaces.
+
+This computer manages each experiment and works as an abstraction layer for the general ArSat SPU, minimizing the integration impact.
+
+ARGENTINAARIANE 5ARSAT-1
+1 
+previous article
+Orion EFT-1 mission enters pad flow milestones
+next article
+Japan lofts Himawari 8 weather satellite via H-IIA rocket
+RELATED ARTICLES
+ACTIVE DISCUSSIONS
+New NASA /DOD nuclear thermal propulsion effort
+by Asteroza
+Atlas V 541 - GOES-T - 16 February 2022 (21:40 UTC)
+by Josh_from_Canada
+NASA Commercial Crew Space Transportation Services: RFI for Round 2
+by abaddon
+Orbital Debris problem
+by HoratioNelson
+POLL: Successful landings of F9/FH first stages (cores) by SpaceX in 2022?
+by Vahe231991
+NSF STARBASE LIVE
+
+
+Advertisement Northrop Grumman
+Advertisement NSF Merchandise
+Advertisement SkyTale Software GmbH
+Advertisement NovaTech
+
+FACEBOOK TWITTER INSTAGRAM YOUTUBE
+About Us Cookie Policy Advertising Info
+©2005-2021 - NASASpaceflight.com
+
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.OkRead more

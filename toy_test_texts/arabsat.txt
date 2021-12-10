@@ -1,0 +1,59 @@
+Ariane 5 ECA launches with Arabsat-5C and SES-2
+written by Chris Bergin September 21, 2011
+
+Arianespace have returned to action on Wednesday, as their Ariane 5 ECA launched two more telecommunication satellites into orbit – namely Arabsat-5C and SES-2. Launch from the European Spaceport in Kourou, French Guiana, was on schedule, at the start of a 40 minute launch window, which opened at 9:38pm UTC.
+
+Ariane 5 ECA Launch Overview:
+
+The Ariane 5 ECA (Cryogenic Evolution type A) – the most powerful version in the Ariane 5 range – was used for this flight.
+
+The Ariane 5 ECA is an improved Ariane 5 Generic launcher. Although it has the same general architecture, a number of major changes were made to the basic structure of the Ariane 5 Generic version to increase thrust and enable it to carry heavier payloads into orbit.
+
+SEE ALSO
+LIVE Ariane 5 Launch Updates
+60 Launch Vehicle Manuals (L2)
+Click here to Join L2
+Designed to place payloads weighing up to 9.6 tonnes into GTO, this increased capacity allows the Ariane 5 ECA to handle dual launches of very large satellites.
+
+As Arianespace prepares for the expansion of its launcher family with the introduction of Soyuz and Vega at the Spaceport, the company has adopted a new numbering system to identify its missions with these three vehicles.
+
+Ariane 5 flights will carry the “VA” designation, followed by the flight number.  The “V” is for “vol,” the French word for “flight,” while the “A” represents the use of an Ariane launch vehicle.  As a result, this latest mission will carry the “VA204” reference, for the 204th launch of an Ariane since this family of vehicles began operations in 1979.
+
+With the introduction of Soyuz at the Spaceport in 2011 – starting with the launch of the Galileo IOV-M1 satellites – Arianespace missions from South America with the medium-lift workhorse launcher will be designated “VS,” while flights with the lightweight Vega vehicle are to be referenced as “VV.”
+
+SES-2 was positioned on the launcher’s core section as the lower payload, allowing the “stack” to be completed with installation of the Arabsat-5C/SYLDA/fairing combination atop it.
+
+During the flight sequence, the payload fairing will be jettisoned first, followed by deployment of Arabsat-5C. The SYLDA dispenser is then released, allowing the subsequent separation of SES-2 to complete the Arianespace mission.
+
+The multi-mission Arabsat-5C was built for the Arab Satellite Communications Organization (Arabsat), and is to provide capacity in both the C- and Ka-bands for a range of communications services.  To be operated from Arabsat’s 20 deg. East orbital position.
+
+Arabsat-5C was built by EADS Astrium and Thales Alenia Space in a joint program for the satellite’s assembly and in-orbit delivery.  As the lead partner, Astrium supplied the Eurostar E3000 platform, with responsibility for assembling and testing the spacecraft. Thales Alenia Space designed and built the communications payload, which integrates C-band and Ka-band transponders.
+
+The spacecraft has an estimated launch mass of 4,630 kg.
+
+Its SES-2 co-passenger for the Ariane 5 flight was built by Orbital Sciences Corporation of the U.S. for SES WORLD SKIES, and is a hybrid C- and Ku-band spacecraft that will serve North America from an orbital slot of 87 deg. West. 
+
+This platform has an estimated mass at liftoff of 3,152 kg., and it also carries the Commercially Hosted InfraRed Payload (CHIRP) for the U.S. Air Force – which integrates a wide-field of view sensor in the satellite.
+
+The SES-2 satellite is based on Orbital’s GEOStar 2.4 bus, the company’s largest and most powerful communications satellite.  It carries 24 active C-band and 24 Ku-band transponders of 36 MHz capacity.  Six of the channels in each band can be cross-strapped to the opposite band, enabling new service capability.
+
+The SES-2 satellite will generate approximately 5.0 kilowatts of payload power and will have two 2.3 meter deployable reflectors.
+
+“We are looking forward to the upcoming launch and the completion of the in-orbit testing of the SES-2 spacecraft for our customer,” said Mr. Christopher Richmond, Orbital’s Senior Vice President and head of its communications satellite business unit.
+
+“SES-2 will join four other Orbital-built GEOStar 2 spacecraft in the SES fleet, including SES-1, SES-3, NSS-9 and AMC-21, all of which continue to operate with high reliability, enabling SES to provide communications services to its customers around the world.”
+
+CHIRP program manager Brent Armand added, “Orbital’s critical role in establishing the contract framework, the engineering processes and procedures, and the standard hosted payload interface to be first used by CHIRP, is helping pave the way for a new business value proposition for our government and international customers. 
+
+“Taking advantage of the regularity and reliability of the commercial space industry to deploy new-generation technologies in a timely way and at an affordable total mission cost is becoming an attractive option for government space mission planners.”
+
+The flight had been delayed for supplementary checks on the engine that powers Ariane 5’s cryogenic upper stage, which were performed as part of Arianespace’s commitment to quality and reliability.
+
+“As we do not tolerate any defect on our launchers, there was no hesitation on our part in delaying this upcoming flight to ensure the highest level of quality for a successful mission,” said Arianespace Chairman & CEO Jean-Yves Le Gall.
+
+“With the launch sector’s ‘devastation’ caused by mission failures of other vehicles, Ariane 5 stands out with its track record of 45 consecutive successes.”
+
+The launch suffered one further 24 hour delay due to industrial action in the local area.
+
+(Images via Arianespace)
+

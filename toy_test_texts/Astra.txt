@@ -1,0 +1,35 @@
+Ariane 5 ECA finally launches with Astra 3B and COMSATBw 2 satellites
+written by Chris Bergin May 21, 2010
+Arianespace’s delayed opening launch of 2010, with the Astra 3B and COMSATBw 2 satellites, has launched from the European Spaceport in French Guiana via the Ariane 5 ECA. Launch was at 10.01pm GMT.  Technical issues delayed the launch from March, before another issue in April caused the rollback and review of the vehicle’s hardware.
+
+Launch Preview:
+
+The 194th Ariane mission will place two communications satellites into geostationary transfer orbit: ASTRA 3B for the Luxembourg-based operator SES ASTRA, and COMSATBw-2 for Astrium as part of a contract with the German Ministry of Defense. This will be the 50th Ariane 5 launch.
+
+The launcher will be carrying a total payload of 9,116 kg, including 7,971 kg for the two satellites, which will be released into their targeted orbits. The launch will take place from Ariane Launch Complex No. 3 (ELA 3) in Kourou, French Guiana.
+
+SEE ALSO
+LIVE Ariane 5 Dual Payload Updates
+60 Launch Vehicle Manuals (L2)
+Click here to Join L2
+ASTRA 3B is installed in the upper passenger position of Ariane 5’s dual payload ‘stack’, and will provide direct-to-home broadcast services and two-way broadband relay across Europe and the Middle East.
+
+Produced by EADS Astrium, ASTRA 3B will be located at 23.5 degrees East, ASTRA’s orbital position for delivering Direct-to-Home (DTH) broadcast services.
+
+The satellite will allow SES ASTRA to extend the geographical coverage and the service to customers and offer Direct-to-Home (DTH) TV reception from Spain to the Black Sea. It will also help SES ASTRA to further optimize the spectrum use at 23.5 degrees East.
+
+ASTRA 3B will join ASTRA 3A and enable SES ASTRA to release its satellites ASTRA 1E and ASTRA 1G for other missions. ASTRA 1E and ASTRA 1G are currently positioned at 23.5 degrees East.
+
+ASTRA 3B has a payload power of 10 kW, and can operate at a relay capacity of up to 60 transponders in Ku-band and 4 in Ka-band. It is based on the Eurostar E3000 satellite bus, and is equipped with six mission antennas – four of which are side-mounted and will be deployed in orbit. With a launch mass of 5,470 kilograms, ASTRA 3B has been designed for a nominal lifetime of 15 years.
+
+COMSATBw-2 is a secure relay platform that will deliver key services for the German Bundeswehr (German armed forces), and is a follow-on spacecraft to COMSATBw-1 – which was orbited by Ariane 5 in October 2009.
+
+Together, the COMSATBw satellites will provide a secure broadband network which guarantees uninterrupted communications between the government, military authorities and armed forces deployed around the world.
+
+Based on the Spacebus 3000B2 platform, COMSATBw-2 was designed, integrated and tested by satellite prime contractor Thales Alenia Space on behalf of EADS Astrium – which is the program’s space segment prime contractor.
+
+COMSATBw-2 will ride as the lower passenger, to be deployed after its companion payload – ASTRA 3B, which has been installed atop the Ariane 5 SYLDA dual-payload dispenser system.
+
+Liftoff of the upcoming dual-payload launch marks the start of another busy schedule in which Arianespace has planned a total of seven flights for its heavy-lift workhorse during 2010. In addition, three missions are targeted with the medium-lift Soyuz from its new Spaceport launch facility, and the lightweight Vega vehicle’s maiden flight also could occur before year-end from the Spaceport.
+
+ARIANE 5

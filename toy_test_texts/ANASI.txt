@@ -1,0 +1,17 @@
+SpaceX successfully launches ANASIS-II satellite and breaks booster turnaround record
+Darrell Etherington@etherington / 2:40 PM PDT•July 20, 2020
+ Comment
+spacex-anasis-ii-launch
+SpaceX has completed another successful launch, this time on behalf of Lockheed Martin and its client South Korea. The payload is ANASIS-II, a dedicated military communications satellite (South Korea’s first), which the nation will use to help safeguard its national security.
+
+The Falcon 9 carrying the ANASIS-II lifted off from Cape Canaveral in Florida at 5:30 PM EDT (2:30 PM PDT) on Monday, using a first-stage booster that SpaceX flew less than two months ago — on the Demo-2 mission that carried NASA astronauts Bob Behnken and Doug Hurley to the International Space Station. This is a record in terms of the time required to recover a booster and turn it around for re-use — breaking the 63-day time of the booster used for Starlink’s fourth production launch in February.
+
+Today’s booster only went 51 days between flights, beating the existing record by nearly two weeks. It’s especially impressive when you consider that the first time this first stage was used, it was for what is easily SpaceX’s most critical launch to date — the first carrying actual human beings on board. Just a few years ago, SpaceX typically configured its boosters in expendable mode for especially large and critical payloads, but it could conceivably even refurbish boosters for future crewed flights.
+
+The launch for this mission included a re-entry attempt, which involved a controlled burn of the booster after it returned into the atmosphere for a landing on SpaceX’s drone ship. That also went to plan, meaning this booster has now flown two missions and can potentially be flown yet again. This is the 57th successful booster landing for SpaceX.
+
+
+
+Today’s mission will also include an attempt to recover the fairing halves used to protect the satellite during launch, which are jettisoned once the payload reaches space. SpaceX isn’t detailing that part of the mission live, but will provide an update about its status later.
+
+The ANASIS-II payload was also confirmed to have been delivered successfully to its target orbit.

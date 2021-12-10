@@ -1,0 +1,41 @@
+BisonSat launched into space
+Oct 15, 2015 Updated Feb 17, 2017  0
+Facebook
+Twitter
+Email
+1 of 3
+
+
+
+Facebook
+Twitter
+Email
+Print
+Save
+SKC student made satellite begins mission to collect data
+
+By Lailani Upham
+
+VANDENBERG AIR FORCE BASE, CA — Students and faculty from the Salish Kootenai College Engineering Department sent a satellite into space on Thursday morning, October 8, from Vandenberg Air Force base.
+
+BisonSat was part of the National Reconnaissance Office (NRO) United Launch Alliance Atlas V rocket.
+
+NROL-55, a classified mission, carried into orbit an auxiliary payload of 13 CubeSat mini-satellites sponsored by NRO and NASA in a mission known as GRACE (Government Rideshare Advanced Concepts Experiment) – and BisonSat was one of the CubeSats hitching a ride to space.
+
+It is the third CubeSat mission that NRO has provided a rideshare.
+
+“I commend everyone who made this launch successful. This launch adds another powerful mechanism to the nations’ security toolkit. It also demonstrates the efficiencies of CubeSat rideshare on a NRO mission. This is a great example of how NRO, NASA, the Air Force, and other academic colleagues collaborated to amplify innovative technology to support the nation,” said Colonel Lint Hunt, USAF Director from the NRO Office of Space Launch.
+
+BisonSat is the first CubeSat to be built by students at a Native American tribal college. Although it will conduct a variety of Earth observations from orbit, its main mission is educational.
+
+Shortly after lift-off during NASA’s live launch commentary, Andres Martinez, program manger for NASA’s Small Spacecraft Technology Program, stated, “Small satellites provide NASA the ability to rapidly develop and launch groundbreaking technology into space.”
+
+The chief goal of BisonSat is "to interest our students in considering a career in the aerospace industry in the U.S., either as an engineer or as a scientist. And to help address the national need of resupplying our workforce with talented people to keep the U.S. as a leader in this area," said BisonSat principal investigator and Salish Kootenai College faculty member, Tim Olson, during Wednesday's news briefing near the launch site.
+
+The BisonSat, a 2.2 pound, 10-by-10 centimeter solar-powered cube includes a SKC-designed camera and radio for receiving commands and transmitting data. BisonSat is stabilized by a bar magnet inside that aligns with the earth’s magnetic field, allowing for earth imaging.
+
+The SKC CubeSat team consists of nine students: B.S. Computer Engineering students, Robert Davis, Zachary DuMontier, Ryan Beagles, Judy Hudgins, Heather Mitchell, and Ryan Young, B.S. Information Technology student, Robert Sanchez, B.S. Hydrology student, Noel Stewart, and A.S. General Science student, Cory Drowatsky; and four faculty mentors: Al Anderson, Tim Olson, Thomas Thickel, and Andrew Westerman.
+
+In an interview with NASA this summer Olson spoke about the edge SKC has, as opposed to a larger university system with much more resources available to students. “I often have this conversation with our engineering students, in particular. There certainly are advantages of getting an engineering education at a larger university. But what we offer as a small college is they get the one-on-one attention here; we have very small classes and students will not fall through the cracks here. And we can get them involved in these hands-on design projects that logistically are harder for larger universities to offer.”
+
+A satellite communications ground station has been built on the SKC campus where operations of the CubeSat will be monitored by the SKC team.

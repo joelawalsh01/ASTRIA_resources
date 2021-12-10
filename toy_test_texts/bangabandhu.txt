@@ -1,0 +1,29 @@
+SpaceX launches Bangladeshi satellite on debut Block 5 Falcon 9 mission
+by Caleb Henry — May 11, 2018
+Falcon 9 Bangabandhu 1 launch
+The first SpaceX Falcon 9 Block 5 rocket lifts off from Kennedy Space Center's Launch Complex 39A May 11, carrying the Bangabandhu-1 satellite. Credit: Craig Vander Galien
+WASHINGTON — SpaceX on May 11 successfully launched its most modern Falcon 9 rocket, delivering Bangabandhu-1, the first Bangladeshi telecom satellite, into geostationary transfer orbit.
+
+The Falcon 9 rocket, known as the Block 5 version, lifted off from Cape Canaveral Air Force Base at 4:14 p.m. Eastern. The 3,500-kilogram Bangabandhu-1 satellite separated from the rocket’s upper stage about 34 minutes later.
+
+The launch was a major milestone for both SpaceX and Bangladesh. With the Block 5 Falcon 9, SpaceX envisions launching around 10 times with the same first stage and doing no refurbishment in between. After the tenth launch, refurbishment could prolong the vehicle’s operational life to 100 missions, according to SpaceX. The rocket is the final design of Falcon 9, and features modifications for simpler manufacturing, to meet NASA commercial crew requirements, and to include Air Force requests.
+
+SpaceX landed the first stage approximately 11 minutes after liftoff. In a call with reporters May 10, SpaceX Chief Executive Elon Musk said the company will spend a few months disassembling and inspecting this first Block 5 booster before reuse.
+
+“Ironically, we need to take it apart to confirm that it does not need to be taken apart,” Musk said. “This rocket probably won’t refly for probably a couple of months. But by late this year we should be seeing substantial reflight of Block 5 vehicles, probably with Block 5 boosters seeing their third, maybe their fourth reflight.”
+
+For Bangladesh, the launch is the culmination of several years worth of work to operate its own telecom satellite.
+
+Bangladesh had orbital slots from the United Nation’s International Telecommunication Union that it considered too far from Bangladesh to ensure reliable satellite services. After years of seeking better orbital locations, the Bangladesh Telecommunications Regulatory Commission (BTRC) hired consulting firm Space Partnership International (SPI) of Bethesda, Maryland in 2012 to guide the nation in obtaining a better slot and through the acquisition of Bangabandhu-1. SPI helped BTRC secure an orbital slot closer to Bangladesh at 119.1 degrees east from the Moscow-based international organization Intersputnik for $28 million.
+
+BTRC purchased a turnkey contract for Bangabandhu-1 from European satellite manufacturer Thales Alenia Space in 2015 for $248 million that included the construction of ground infrastructure for satellite operations and the provisioning of a launch vehicle. Thales Alenia Space originally planned for Bangabandhu-1 to launch on an Arianespace Ariane 5 rocket, but switched to backup-choice SpaceX at Bangladesh’s request. BTRC wanted to launch the satellite on Dec. 16, 2017, Bangladesh’s Victory Day, and went with SpaceX to try and make the launch coincide with the holiday. SpaceX delays prevented that from happening.
+
+Bangladesh is the latest in a growing number of nations to “put their flag in space” by launching a national satellite. Other recent entrants include Belarus, Laos and Algeria.
+
+Patriotism and international prestige were especially prominent motivations for Bangladesh. The satellite Bangabandhu-1 is named after Bangabandhu Sheikh Mujibur Rahman, the assassinated founder of Bangladesh. His daughter Sheikh Hasina is Bangladesh’s current prime minister and her son, Sajeeb Wazed, is the nation’s honorary adviser to the prime minister for information and communications technology.
+
+Nationalism as a motivation for new satellites is a concern for commercial operators who worry new entrants will distort markets by disregarding supply and demand.
+
+But Bangladesh’s satellite exists for more than just the sake of having a satellite. The country plans to use Bangabandhu-1 to further the digitization of the nation — the eighth most populous in the world with around 160 million people according to U.S. census estimates — with e-learning television programs and other services to reduce its domestic digital divide. BTRC estimates Bangabandhu-1 will save the country around $14 million currently spent leasing capacity from foreign operators. In an interview with SpaceNews, Wazed said the number is closer to $15 million to $30 million.
+
+Bangabandhu-1 carries 26 Ku-band transponders and 14 C-band transponders, and is designed to operate for at least 15 years in geostationary orbit. In addition to Bangladesh, the satellite’s coverage includes India, Nepal, Bhutan, Sri Lanka, the Philippines, Indonesia and several central Asian countries. SPI helped design the satellite.

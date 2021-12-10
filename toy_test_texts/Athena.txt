@@ -1,0 +1,17 @@
+Editorial | France, Italy Set Example with Athena-Fidus Satellite
+by SpaceNews — February 17, 2014
+The successful launch Feb. 6 of the Franco-Italian Athena-Fidus communications satellite marks an occasion to highlight the program as a model for international cooperation that can make otherwise expensive space capabilities available at a cost that taxpayers can afford.
+
+Athena-Fidus cost 280 million euros ($378 million) including construction and launch, a sum divided almost evenly between the French and Italian governments. The 3,080-kilogram satellite, built by Thales Alenia Space of France and Italy, is equipped with Ka- and extremely high frequency-band payloads for military and civil-government communications.
+
+France and Italy will operate Athena-Fidus as though it were two separate satellites, consulting with one another on a continuous basis to avoid interference issues. France, which is paying slightly more for the mission — 51 percent versus Italy’s 49 percent — will operate five of the satellite’s seven steerable beams. Athena-Fidus also has two fixed beams, one covering France and the other trained on Italy.
+
+The two governments have a similar arrangement for the planned Sicral 2 X- and UHF-band telecommunications satellite, only with Italy as the majority stakeholder. This satellite, slated to launch in late 2014, also is being manufactured by Thales Alenia Space.
+
+Given their geographic proximity — the two countries share a 500-kilometer border — and a common industrial resource in Thales Alenia Space, Italy and France, both charter members of the NATO alliance, are natural partners in military satellite communications. The same could be said for other key alliance members, notably Germany and Britain, which along with France host significant operations of satellite prime contractor Airbus Defence and Space. 
+
+Today, Britain and Germany continue to operate their own independent military satellite communications systems. But there is no reason they couldn’t join together, and with other NATO members, to deploy similar systems that leverage the financial resources and industrial capabilities of everyone involved.
+
+International cooperation in military space is increasingly becoming the norm as budgets shrink while requirements continue to grow, especially in communications. The United States, for example, has been able to expand its Wideband Global Satcom constellation by bringing international partners aboard, and could adopt a similar strategy to help sustain its Mobile User Objective System program for mobile communications.
+
+Although it’s been said many times before, it bears repeating that pooling resources on satellite programs enables allied countries to reduce duplication while getting more for their individual investments. In the current budget environment, it should be the default approach to deploying all but the most sensitive military space capabilities.

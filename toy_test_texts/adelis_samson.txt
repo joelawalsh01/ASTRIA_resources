@@ -1,0 +1,39 @@
+NEWS RELEASE 18-MAR-2021
+Technion returns to space
+The Adelis-SAMSON project from Technion - Israel Institute of Technology involves three autonomous nanosatellites that will fly in formation and monitor Earth from s
+
+Business Announcement
+TECHNION-ISRAEL INSTITUTE OF TECHNOLOGY
+
+PrintEmail App
+The "Adelis-SAMSON" project, an autonomous group of three nanosatellites built and developed by the Technion - Israel institute of Technology, will be launched into orbit on March 20, 2021. The project is the passion of a research team led by Professor Pini Gurfil of the Asher Space Research Institute (ASRI), and the Faculty of Aerospace Engineering, with the support of the Adelis Foundation, the Goldstein Foundation, and the Israel Space Agency in the Ministry of Science and Technology.
+
+The satellites will piggyback on a Glavkosmos Soyuz rocket from a site in Kazakhstan, and once in orbit, will be used to calculate the location of people, planes, and ships. The cluster of satellites will fly in formation in space by utilizing autonomous communication and control, without needing guidance from the ground. The Adelis-SAMSON formation includes three miniature satellites (CubeSats), each weighing about 8 kg (17 ½ lb). Each CubeSat includes sensors, antennae, computer systems, control systems, navigation devices, and a unique and innovative propulsion system. The satellites will travel at an altitude of 550 km (341 mi) above ground and will detect signals from Earth using a mission receiver developed by IAI. The CubeSats will then transmit these signals to a mission control center located at Technion's Asher Space Research Institute.
+
+"Basic research over the course of many years, combined with advanced Israeli technology, allows Israel to take an important step forward in the field of nanosatellites," explained Prof. Gurfil.
+
+"You could compare the innovation of nanosatellites to switching from the personal computer to the cellphone. The Adelis-Samson project demonstrates a new concept in nanosatellite design and will enable many operations to be carried out that have been reserved until now for large and expensive satellites," he continued. "This is a leap in the field of miniature satellites, in the capabilities of the Technion, and for the entire State of Israel, and one which will make the Technion a global pioneer in the fields of geolocation and satellite communication, with diverse applications including search and rescue, remote sensing, and environmental monitoring."
+
+"The Adelis-SAMSON project is a wonderful and exciting example of the successful integration of science and technology and the transformation of innovative ideas into effective systems that contribute to humanity," said Professor Uri Sivan, President of the Technion. "Scientific and technological breakthroughs require multidisciplinary research and close collaboration between academia and industry, and this is what has led the project to this important day."
+
+"The current project continues a Technion tradition that began in 1998 with the successful launch of the Gurwin-TechSat II," added the Technion President. "That satellite has been operating in space for more than 11 years, a record time for academic activity in space. The launch of Adelis-SAMSON is a dramatic moment that we have been waiting nine years for and will follow closely.
+
+I sincerely thank our partners at the Adelis Foundation, the Goldstein Foundation, the Israel Space Agency, and Israel Aerospace Industries for helping us make this project a reality. Every time you look at the sky, remember that the Technion has once again managed to reach space."
+
+"For many years there has been a widespread belief that space technologies - and space itself - are the domain of leading economic powers, and are out of reach of ordinary countries," said Mrs. Rebecca Boukhris, Trustee of Adelis Foundation. "Today there is no dispute that Israel now belongs to the exclusive club of space powers, thanks to the rapid development of the space industry in Israel. Adelis-SAMSON is a unique project that embodies the Israeli spirit, power and intellectual resources. Israel shows its strength in technology and science and puts itself firmly on the world map of aerospace, all on a modest budget and in an academic environment. The Adelis Foundation sees itself as an organization that sows the seeds of the future and we hope that this project will be the first of many, inspiring other small and brilliant projects to lead Israel's development in space and bring recognition to the State of Israel."
+
+The field of nano-satellites has been booming recently and the number of launches is increasing every year," says Avi Blasberger, director of the Israeli Space Agency at the Ministry of Science and Technology. "The cost of developing and launching such satellites, capable of performing a variety of uses, is significantly lower than those of regular satellites. In the near future networks are expected to appear to include thousands of nanosatellites that will cover the Earth and enable high-speed internet communication at a significantly lower cost than is currently available, as well as having many other applications such as the one demonstrated in the Adelis-SAMSON satellites."
+
+"We see great importance in our collaboration with the Technion to promote academic research and future technologies in the field of space," says IAI President & CEO Boaz Levy. "IAI, Israel's 'National Space House', sees high value in its connection to academia on the business and the technological levels to advance Israel's continued innovation and leadership in the field of space. This partnership promotes the development of the entire ecosystem and IAI is proud to join forces in this innovative and groundbreaking project."
+
+Israel's next generation satellites resulted from exceptional collaboration between academia and industry. A special propulsion system, based on krypton gas, will be the first of its kind in the world to operate on a tiny satellite. The digital receiver and the attitude control system were developed by IAI in collaboration with Technion researchers.
+
+In addition to the propulsion system, the satellites will accumulate energy through solar panels that will be deployed next to each satellite and will serve as wings that will control, if necessary, the flight of the formation without the use of fuel, using air drag in the atmosphere. Each of the nanosatellites is fitted with a digital receiver, one of the most complex ever to fly on a nanosatellite.
+
+The system for processing the information on the satellite and the algorithms that will keep the formation flying will be among the first of their kind in the world, and will support the autonomous operation of several satellites simultaneously. The navigation system will include two GPS receivers that will be used for autonomous navigation. The communication system through which the three nanosatellites will communicate with each other as well as with the ground station will be operated at three different frequencies - a significant challenge that was resolved in the current project. A dedicated frequency will be used to transmit information to Earth through broadband.
+
+###
+
+There are many partners in Technion's Adelis-SAMSON project, including the Adelis Foundation, the Goldstein Foundation, the Israeli Space Agency in the Ministry of Science and IAI. From the Technion, researchers from the Asher Space Research Institute included Avner Keidar, Hovik Agalarian, Dr. Vladimir Balabanov, Eviatar Edlerman, Yaron Oz, Maxim Rubanovich, Margarita Shamis, Yulia Koneivsky, Tzachi Ezra and Dr. Alex Fried, as well as many students over the years.
+
+Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system.
