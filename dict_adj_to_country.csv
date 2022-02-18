@@ -1,0 +1,419 @@
+Adjective,Country
+Afghan,Afghanistan
+Afghans,Afghanistan
+Afghanistani,Afghanistan
+Afghanistanis,Afghanistan
+Albanian,Albania
+Albanians,Albania
+Algerian,Algeria
+Algerians,Algeria
+Andorran,Andorra
+Andorrans,Andorra
+Angola,Angola
+Angolan,Angola
+Angolans,Angola
+Antiguan,Antigua and Barbuda
+Antiguans,Antigua and Barbuda
+Barbudan,Antigua and Barbuda
+Barbudans,Antigua and Barbuda
+Argentinian,Argentina
+Argentinians,Argentina
+Argentine,Argentina
+Argentine,Argentina
+Armenian,Armenia
+Armenians,Armenia
+Australian,Australia
+Australians,Australia
+Austrian,Austria
+Austrians,Austria
+Azerbaijani,Azerbaijan
+Azerbaijanis,Azerbaijan
+Bahamian,The Bahamas
+Bahamians,The Bahamas
+Bahraini,Bahrain
+Bahrainis,Bahrain
+Bangladesh,Bangladesh
+Bangladeshi,Bangladesh
+Bangladeshis,Bangladesh
+Bengali,Bangladesh
+Bengalis,Bangladesh
+Barbadian,Barbados
+Barbadians,Barbados
+Belarussian,Belarus
+Belarussians,Belarus
+Belarusian,Belarus
+Belarusians,Belarus
+Belgian,Belgium
+Belgians,Belgium
+Beninese,Benin
+Bhutanese,Bhutan
+Bolivian,Bolivia
+Bolivians,Bolivia
+Bosnian,Bosnia and Herzegovina
+Bosnians,Bosnia and Herzegovina
+Herzegovinian,Bosnia and Herzegovina
+Herzegovinians,Bosnia and Herzegovina
+Motswana,Botswana
+Batswana,Botswana
+Brazilian,Brazil
+Brazilians,Brazil
+Bruneian,Brunei
+Bruneians,Brunei
+Bulgarian,Bulgaria
+Bulgarians,Bulgaria
+Burkinabe,Burkina Faso
+Burkinabes,Burkina Faso
+Burundi,Burundi
+Burundis,Burundi
+Burundian,Burundi
+Burundians,Burundi
+Cambodian,Cambodia
+Cambodians,Cambodia
+Kampuchean,Cambodia
+Kampucheans,Cambodia
+Cameroonian,Cameroon
+Cameroonians,Cameroon
+Canadian,Canada
+Canadians,Canada
+Cape Verdean,Cape Verde
+Cape Verdeans,Cape Verde
+Central African,Central African Republic
+Central Africans,Central African Republic
+Chadian,Chad
+Chadians,Chad
+Chilean,Chile
+Chileans,Chile
+Chinese,China
+Colombian,Colombia
+Colombians,Colombia
+Comoran,Comoros
+Comorans,Comoros
+Congolese,Democratic Republic of Congo
+Congolese,Republic of Congo
+Costa Rican,Costa Rica
+Costa Ricans,Costa Rica
+Ivorian,Côte d'Ivoire
+Ivorians,Côte d'Ivoire
+Croatian,Croatia
+Croatians,Croatia
+Croat,Croatia
+Croats,Croatia
+Cuban,Cuba
+Cubans,Cuba
+Cypriot,Cyprus
+Cypriots,Cyprus
+Czech,Czech Republic
+Czechs,Czech Republic
+Danish,Denmark
+Dane,Denmark
+Danes,Denmark
+Djiboutian,Djibouti
+Djiboutians,Djibouti
+Dominican,Dominican Republic
+Dominicans,Dominican Republic
+Ecuadorean,Ecuador
+Ecuadoreans,Ecuador
+Egyptian,Egypt
+Egyptians,Egypt
+Salvadorean,El Salvador
+Salvadoreans,El Salvador
+Equatorial Guinean,Equatorial Guinea
+Equatorial Guineans,Equatorial Guinea
+Equatoguinean,Equatorial Guinea
+Equatoguineans,Equatorial Guinea
+Eritrean,Eritrea
+Eritreans,Eritrea
+Estonian,Estonia
+Estonians,Estonia
+Ethiopian,Ethiopia
+Ethiopians,Ethiopia
+Fijian,Fiji
+Fijians,Fiji
+Finnish,Finland
+Finn,Finland
+Finns,Finland
+French,France
+Frenchman,France
+Frenchwoman,France
+Frenchmen,France
+Frenchwomen,France
+Gabonese,Gabon
+Gambian,Gambia
+Gambians,Gambia
+Georgian,Georgia
+Georgians,Georgia
+German,Germany
+Germans,Germany
+Ghanian,Ghana
+Ghanians,Ghana
+Greek,Greece
+Greeks,Greece
+Grenadian,Grenada
+Grenadians,Grenada
+Guatemalan,Guatemala
+Guatemalans,Guatemala
+Guinean,Guinea
+Guineans,Guinea
+Guinean,Guinea-Bissau
+Guineans,Guinea-Bissau
+Guyanese,Guyana
+Haitian,Haiti
+Haitians,Haiti
+Honduran,Honduras
+Hondurans,Honduras
+Hungarian,Hungary
+Hungarians,Hungary
+Icelandic,Iceland
+Icelander,Iceland
+Icelanders,Iceland
+Indian,India
+Indians,India
+Indonesian,Indonesia
+Indonesians,Indonesia
+Iranian,Iran
+Iranians,Iran
+Iraqi,Iraq
+Iraqis,Iraq
+Irish,Ireland
+Irishman,Ireland
+Irishwoman,Ireland
+Irishmen,Ireland
+Irishwomen,Ireland
+Israeli,Israel
+Israelis,Israel
+Italian,Italy
+Italians,Italy
+Jamaican,Jamaica
+Jamaicans,Jamaica
+Japanese,Japan
+Jordanian,Jordan
+Jordanians,Jordan
+Kazakhstani,Kazakhstan
+Kazakhstanis,Kazakhstan
+Kenyan,Kenya
+Kenyans,Kenya
+I-Kiribati,Kiribati
+North Korean,North Korea
+North Koreans,North Korea
+Korean,South Korea
+Koreans,South Korea
+South Korean,South Korea
+South Koreans,South Korea
+Kuwaiti,Kuwait
+Kuwaitis,Kuwait
+Kyrgyzstani,Kyrgyzstan
+Kyrgyzstanis,Kyrgyzstan
+Lao,Laos
+Laotian,Laos
+Laotians,Laos
+Latvian,Latvia
+Latvians,Latvia
+Lebanese,Lebanon
+Basotho,Lesotho
+Mosotho,Lesotho
+Liberian,Liberia
+Liberians,Liberia
+Libyan,Libya
+Libyans,Libya
+Liechtensteiner,Liechtenstein
+Liechtensteiners,Liechtenstein
+Lithuanian,Lithuania
+Lithuanians,Lithuania
+Luxembourgian,Luxembourg
+Luxembourgians,Luxembourg
+Macedonian,Macedonia
+Macedonians,Macedonia
+Malagasy,Madagascar
+Malagasies,Madagascar
+Malawian,Malawi
+Malawians,Malawi
+Malaysian,Malaysia
+Malaysians,Malaysia
+Maldivian,Maldives
+Maldivians,Maldives
+Malian,Mali
+Malians,Mali
+Maltese,Malta
+Marshallese,Marshall Islands
+Mauritanian,Mauritania
+Mauritanians,Mauritania
+Mauritian,Mauritius
+Mauritians,Mauritius
+Mexican,Mexico
+Mexican,Mexico
+Micronesian,Micronesia
+Kosrae,Micronesia
+Pohnpeian,Micronesia
+Trukese,Micronesia
+Yapese,Micronesia
+Moldovan,Moldova
+Moldovans,Moldova
+Monegasque,Monaco
+Monacan,Monaco
+Monacans,Monaco
+Mongolian,Mongolia
+Mongolians,Mongolia
+Mozambican,Mozambique
+Mozambicans,Mozambique
+Burmese,Myanmar
+Namibian,Namibia
+Namibians,Namibia
+Nauruan,Nauru
+Nauruans,Nauru
+Nepalese,Nepal
+Dutch,Netherlands
+Dutchman,Netherlands
+Dutchwoman,Netherlands
+New Zealander,New Zealand
+New Zealanders,New Zealand
+Nicaraguan,Nicaragua
+Nicaraguans,Nicaragua
+Nigerien,Niger
+Nigeriens,Niger
+Nigerian,Nigeria
+Nigerians,Nigeria
+Norwegian,Norway
+Norwegians,Norway
+Omani,Oman
+Omanis,Oman
+Pakistani,Pakistan
+Pakistanis,Pakistan
+Palauan,Palau
+Palauans,Palau
+Panamanian,Panama
+Panamanians,Panama
+Papua New Guinean,Papua New Guinea
+Papua New Guineans,Papua New Guinea
+Paraguayan,Paraguay
+Paraguayans,Paraguay
+Peruvian,Peru
+Peruvians,Peru
+Philippine,Philippines
+Filipino,Philippines
+Filipino,Philippines
+Polish,Poland
+Pole,Poland
+Poles,Poland
+Portuguese,Portugal
+Qatari,Qatar
+Qataris,Qatar
+Romanian,Romania
+Romanians,Romania
+Russian,Russia
+Russians,Russia
+Rwandan,Rwanda
+Rwandans,Rwanda
+Kittian,Saint Kitts and Nevis
+Kittians,Saint Kitts and Nevis
+Nevisian,Saint Kitts and Nevis
+Nevisians,Saint Kitts and Nevis
+Saint Lucian,Saint Lucia
+Saint Lucians,Saint Lucia
+Saint Vincentian,Saint Vincent and the Grenadines
+Saint Vincentians,Saint Vincent and the Grenadines
+Vincentian,Saint Vincent and the Grenadines
+Vincentians,Saint Vincent and the Grenadines
+Samoan,Samoa
+Samoans,Samoa
+Sanmarinese,San Marino
+Sanmarineses,San Marino
+São Tomean,São Tome and Príncipe
+São Tomeans,São Tome and Príncipe
+Saudi Arabian,Saudi Arabia
+Saudi,Saudi Arabia
+Saudi Arabians,Saudi Arabia
+Saudis,Saudi Arabia
+Senegalese,Senegal
+Serbian,Serbia and Montenegro
+Serbians,Serbia and Montenegro
+Montenegrin,Serbia and Montenegro
+Montenegrins,Serbia and Montenegro
+Seychellois,Seychelles
+Sierra Leonean,Sierra Leone
+Sierra Leoneans,Sierra Leone
+Singaporean,Singapore
+Singaporeans,Singapore
+Slovak,Slovakia
+Slovaks,Slovakia
+Slovakian,Slovakia
+Slovakians,Slovakia
+Slovenian,Slovenia
+Slovenians,Slovenia
+Slovene,Slovenia
+Slovenes,Slovenia
+Soloman Islander,Solomon Islands
+Soloman Islanders,Solomon Islands
+Somali,Somalia
+Somalis,Somalia
+Somalian,Somalia
+Somalians,Somalia
+South African,South Africa
+South Africans,South Africa
+Spanish,Spain
+Spaniard,Spain
+Spaniards,Spain
+Sri Lankan,Sri Lanka
+Sri Lankans,Sri Lanka
+Sudanese,Sudan
+Surinamese,Suriname
+Surinamer,Suriname
+Surinamers,Suriname
+Swazi,Swaziland
+Swazilander,Swaziland
+Swazilanders,Swaziland
+Swedish,Sweden
+Swede,Sweden
+Swedes,Sweden
+Swiss,Switzerland
+Syrian,Syria
+Syrians,Syria
+Taiwanese,Taiwan
+Tajikistani,Tajikistan
+Tajikistanis,Tajikistan
+Tanzanian,Tanzania
+Tanzanians,Tanzania
+Thai,Thailand
+Thais,Thailand
+Togolese,Togo
+Tongan,Tonga
+Tongans,Tonga
+Trinidadian,Trinidad and Tobago
+Trinidadians,Trinidad and Tobago
+Tobagonian,Trinidad and Tobago
+Tobagonians,Trinidad and Tobago
+Tunisian,Tunisia
+Tunisians,Tunisia
+Turkish,Turkey
+Turk,Turkey
+Turks,Turkey
+Turkmen,Turkmenistan
+Turkmens,Turkmenistan
+Tuvaluan,Tuvalu
+Tuvaluans,Tuvalu
+Ugandan,Uganda
+Ugandans,Uganda
+Ukrainian,Ukraine
+Ukrainians,Ukraine
+Emirian,United Arab Emirates
+Emirians,United Arab Emirates
+Emirati,United Arab Emirates
+Emiratis,United Arab Emirates
+British,United Kingdom
+English,United Kingdom
+American,USA
+Americans,USA
+Uruguayan,Uruguay
+Uruguayans,Uruguay
+Uzbekistani,Uzbekistan
+Uzbekistanis,Uzbekistan
+Ni-Vanuatu,Vanuatu
+Ni-Vanuatus,Vanuatu
+Venezuelan,Venezuela
+Venezuelans,Venezuela
+Vietnamese,Vietnam
+Yemeni,Yemen
+Yemenis,Yemen
+Zambian,Zambia
+Zambians,Zambia
+Zimbabwean,Zimbabwe
+Zimbabweans,Zimbabwe
