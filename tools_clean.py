@@ -56,17 +56,19 @@ def filter_news(txt_file: list) -> list:
         line = re.sub('^\[(.*?)\] .*$', '', line) # removes lines beginning and ending with brackets
         line = re.sub('^[#*](.*?)$', '', line) # removes lines beginning with hashtag
         line = re.sub('\[','', line) # delete extra brackets does not remove lines beginning with open bracket
-        line = re.sub('[*#!>_\]\|]*', '', line) # removes extra characters
+        line = re.sub('[\*\\#\!\>\_\\\]\|]*', '', line) # removes extra characters
         line = re.sub('(.*?)Video duration(.*?)$', '', line) # removes lines of video captions
         line = re.sub(' \.', '.', line) # removes extra space before periods
         line = re.sub(' ,', ',', line) # removes extra space before commas
-        line = re.sub('^[ >]$', '', line) # removes entries with single space or single >
+        line = re.sub('^[ \>]$', '', line) # removes entries with single space or single >
         line = re.sub('  *', ' ', line) # removes extra space
         line = re.sub('^ *', '', line) # removes leading space
         line = re.sub(' *$', '', line) # removes ending space
         line = re.sub('((.*?).html)', '', line) # removes other link data
          # remove single words from a list???? how??? Image captions? Image numbers?
         out_txt.append(line)
+    while('' in out_txt):
+        out_txt.remove('')    
     return out_txt
 
 file1 = pd.read_csv('dict_adj_to_country.csv')
